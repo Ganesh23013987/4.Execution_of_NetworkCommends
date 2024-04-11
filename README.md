@@ -55,7 +55,7 @@ while True:
     s.send(ip.encode()) 
     print(s.recv(1024).decode())
 ```
-### TRANCEROUTE COMMAND
+### TRACEROUTE COMMAND
 ```
 from scapy.all import* 
 target = ["www.google.com"] 
@@ -69,7 +69,7 @@ print(result,unans)
 ### Server.py
 <img width="740" alt="4 server output" src="https://github.com/Ganesh23013987/4.Execution_of_NetworkCommends/assets/147473768/5e5b83c5-847d-4fb4-b85d-d1d2c801f77f">
 
-### TRANCEROUTE COMMAND
+### TRACEROUTE COMMAND
 <img width="740" alt="Traceroute cmd" src="https://github.com/Ganesh23013987/4.Execution_of_NetworkCommends/assets/147473768/d689bf3e-8c86-4991-b7dd-258e6329d92b">
 
 ## Result
