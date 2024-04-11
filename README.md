@@ -63,14 +63,14 @@ result, unans = traceroute(target,maxttl=32)
 print(result,unans)
 ```
 ## Output
-### client
+### client.py
 <img width="740" alt="4 client ouput" src="https://github.com/Ganesh23013987/4.Execution_of_NetworkCommends/assets/147473768/7699b863-f7f5-4b9f-9db7-7a3511f19a52">
 
-### Server
+### Server.py
 <img width="740" alt="4 server output" src="https://github.com/Ganesh23013987/4.Execution_of_NetworkCommends/assets/147473768/5e5b83c5-847d-4fb4-b85d-d1d2c801f77f">
 
 ### TRANCEROUTE COMMAND
-<img width="740" alt="Traceroute cmd" src="https://github.com/Ganesh23013987/4.Execution_of_NetworkCommends/assets/147473768/6115d757-7ab3-44ff-ab82-aba84a30157f">
+<img width="740" alt="Traceroute cmd" src="https://github.com/Ganesh23013987/4.Execution_of_NetworkCommends/assets/147473768/d689bf3e-8c86-4991-b7dd-258e6329d92b">
 
 ## Result
 Thus Execution of Network commands Performed and program runned successfully. 
